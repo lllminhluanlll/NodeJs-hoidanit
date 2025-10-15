@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_hoidanit",
+  "version": "1.0.0",
+  "description": "Hoc NodeJs_hoidanit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lllminhluanlll/NodeJs-hoidanit.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "React"
+  ],
+  "author": "Hmlne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lllminhluanlll/NodeJs-hoidanit/issues"
+  },
+  "homepage": "https://github.com/lllminhluanlll/NodeJs-hoidanit#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
